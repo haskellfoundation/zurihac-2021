@@ -1,0 +1,19 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {3}{What is the Haskell Foundation?}{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{Basics}{7}{0}{2}
+\beamer@subsectionintoc {3}{2}{Current status}{14}{0}{2}
+\beamer@subsectionintoc {3}{3}{What does the CTO do?}{19}{0}{2}
+\beamer@sectionintoc {4}{Technical Agendas}{23}{0}{3}
+\beamer@sectionintoc {5}{Projects}{32}{0}{4}
+\beamer@subsectionintoc {5}{1}{Tech Projects}{33}{0}{4}
+\beamer@subsectionintoc {5}{2}{How do we choose?}{36}{0}{4}
+\beamer@subsectionintoc {5}{3}{Future Tech Projects}{40}{0}{4}
+\beamer@subsectionintoc {5}{4}{Community Projects}{42}{0}{4}
+\beamer@subsectionintoc {5}{5}{Future Community Projects}{48}{0}{4}
+\beamer@subsectionintoc {5}{6}{Educational Projects}{50}{0}{4}
+\beamer@sectionintoc {6}{Funding Etc.}{51}{0}{5}
+\beamer@subsectionintoc {6}{1}{State of Funding}{52}{0}{5}
+\beamer@subsectionintoc {6}{2}{Donating}{58}{0}{5}
+\beamer@subsectionintoc {6}{3}{Merch/Swag design}{65}{0}{5}
+\beamer@sectionintoc {7}{Closing thoughts}{69}{0}{6}
