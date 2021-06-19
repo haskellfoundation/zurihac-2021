@@ -17,3 +17,4 @@
 \beamer@subsectionintoc {6}{2}{Donating}{58}{0}{5}
 \beamer@subsectionintoc {6}{3}{Merch/Swag design}{65}{0}{5}
 \beamer@sectionintoc {7}{Closing thoughts}{69}{0}{6}
+\beamer@sectionintoc {8}{Questions?}{77}{0}{7}

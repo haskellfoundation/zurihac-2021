@@ -195,8 +195,13 @@
 \headcommand {\beamer@framepages {75}{75}}
 \headcommand {\slideentry {7}{0}{8}{76/76}{}{0}}
 \headcommand {\beamer@framepages {76}{76}}
-\headcommand {\beamer@partpages {1}{76}}
-\headcommand {\beamer@subsectionpages {69}{76}}
 \headcommand {\beamer@sectionpages {69}{76}}
-\headcommand {\beamer@documentpages {76}}
-\headcommand {\gdef \inserttotalframenumber {76}}
+\headcommand {\beamer@subsectionpages {69}{76}}
+\headcommand {\sectionentry {8}{Questions?}{77}{Questions?}{0}}
+\headcommand {\slideentry {8}{0}{1}{77/77}{}{0}}
+\headcommand {\beamer@framepages {77}{77}}
+\headcommand {\beamer@partpages {1}{77}}
+\headcommand {\beamer@subsectionpages {77}{77}}
+\headcommand {\beamer@sectionpages {77}{77}}
+\headcommand {\beamer@documentpages {77}}
+\headcommand {\gdef \inserttotalframenumber {77}}
